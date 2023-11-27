@@ -11,6 +11,7 @@
 <body>
 
 <a href="https://ibb.co/8BpHg21"><img src="https://i.ibb.co/kyft20N/Grey-Minimalist-Business-Linkedin-Banner.png" alt="Grey-Minimalist-Business-Linkedin-Banner" border="0"></a>
+<img alt="Static Badge" src="www.linkedin.com/in/hubert-garcia-24946925">
 
 
   <p id="intro">Backend developer with +5 years of experience in .NET technologies and SQL databases. Currently completing a Full Stack Development Bootcamp to become a well-rounded programmer. 🚀</p>
