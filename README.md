@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi, I'm Hubert! 👋
+Backend developer with +5 years of experience in .NET technologies and SQL databases. Currently completing a Full Stack Development Bootcamp to become a well-rounded programmer. 🚀
 
-<!--
-**psychohub/psychohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I seek to create scalable, high-impact technological solutions.
 
-Here are some ideas to get you started:
+⚡️ Quick facts
+🛠️ I currently work with C#, .NET, ASP.NET, SQL Server
+🌐 Knowledge in HTML, CSS, JavaScript, REST APIs
+📚 Studying NodeJS, React, MongoDB, AWS
+🎓 Systems Engineering degree, MCSA SQL Server
+✉️ You can contact me via gmail or LinkedIn
+💻 Featured projects
+Medical appointment booking web portal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🆕 Developed in ASP.NET with layered architecture
+🗄️ Integrated with SQL Server databases
+🔄 Enabled automating manual processes
+REST API for reporting system
+
+📊 Built using C# .NET Core
+📥 Integration with third-party services
+⚡️ Improved response times by 20%
+You can find more projects in my profile!
+
+Nice to connect! 😃
