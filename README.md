@@ -10,7 +10,7 @@
 </head>
 <body>
 
- <img src="https://ibb.co/8BpHg21">
+<a href="https://ibb.co/8BpHg21"><img src="https://i.ibb.co/kyft20N/Grey-Minimalist-Business-Linkedin-Banner.png" alt="Grey-Minimalist-Business-Linkedin-Banner" border="0"></a>
 
 
   <p id="intro">Backend developer with +5 years of experience in .NET technologies and SQL databases. Currently completing a Full Stack Development Bootcamp to become a well-rounded programmer. 🚀</p>
